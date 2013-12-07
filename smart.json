@@ -1,0 +1,6 @@
+{
+  "name": "mrt-async-wrapper",
+  "description": "Server side nodejs async wrapper.",
+  "version": "0.1.0",
+  "packages": {}
+}
